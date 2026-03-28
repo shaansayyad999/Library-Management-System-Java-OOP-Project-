@@ -112,5 +112,5 @@ Screenshots of the application are included in the screenshots folder, showing:
 
 ## Author
 
-Shaan Nazim Sayyad
+Shaan Nazim Sayyad -
 Developer's Arena Internship
